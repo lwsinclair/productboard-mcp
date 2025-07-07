@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kenjihikmatullah-productboard-mcp-badge.png)](https://mseep.ai/app/kenjihikmatullah-productboard-mcp)
+
 # Productboard MCP Server
 
 Integrate the Productboard API into agentic workflows via MCP
